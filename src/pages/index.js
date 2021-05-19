@@ -1,6 +1,7 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import * as React from "react";
 import avatar from '../images/icon.png';
+import "../utils/fontawesome";
 
 // styles
 const pageStyles = {
